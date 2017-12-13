@@ -69,16 +69,16 @@
 //テキストファイルのパス指定
 $list = file('list.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 //検索ワード
-$word = 'Great Otaru canal';
-$word2 = 'Beautiful Mt.Tengu';
-$word3 = 'Otaru aquarium soft';
-$word4 = 'Lovely wind chime';
-$word5 = 'Nice townscape';
-$word6 = 'Stunning night view';
-$word7 = 'Wonderful street in Otaru';
-$word8 = 'Beautoful snow bowl';
-$word9 = 'Rickshaw is nice';
-$word10 = 'Nice sunset at Otaru';
+$word = 'Nice';
+$word2 = 'Beautiful';
+$word3 = 'soft';
+$word4 = 'Lovely';
+$word5 = 'Nice';
+$word6 = 'Stunning';
+$word7 = 'Wonderful';
+$word8 = 'Beautoful';
+$word9 = 'Nice';
+$word10 = 'Nice';
 
 ?>
     <div id="myCanvasContainer">

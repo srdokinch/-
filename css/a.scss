@@ -2,11 +2,7 @@ $red: 242;
 $green:242;
 $blue:242;
 
-
-a:link { color: #000; }
-a:visited { color: #000; }
-a:hover { color: #000; }
-a:active { color: #000; }
+a:link { color: red; }
 
 
 body{
@@ -127,4 +123,6 @@ canvas#myCanvas{
     }
   }
 
-p.example1 { color: #ff0000; }
+  .test_span{
+    color:green;
+}
